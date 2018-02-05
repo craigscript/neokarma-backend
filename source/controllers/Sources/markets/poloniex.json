@@ -1,0 +1,436 @@
+{
+    "name": "Poloniex",
+    "markets": {
+        "BTC": {
+            "name": "BTC",
+            "currencies": {
+                "BCN": {
+                    "name": "BTC / BCN",
+                    "icon": "BCN"
+                },
+                "BELA": {
+                    "name": "BTC / BELA",
+                    "icon": "BELA"
+                },
+                "BLK": {
+                    "name": "BTC / BLK",
+                    "icon": "BLK"
+                },
+                "BTCD": {
+                    "name": "BTC / BTCD",
+                    "icon": "BTCD"
+                },
+                "BTM": {
+                    "name": "BTC / BTM",
+                    "icon": "BTM"
+                },
+                "BTS": {
+                    "name": "BTC / BTS",
+                    "icon": "BTS"
+                },
+                "BURST": {
+                    "name": "BTC / BURST",
+                    "icon": "BURST"
+                },
+                "CLAM": {
+                    "name": "BTC / CLAM",
+                    "icon": "CLAM"
+                },
+                "DASH": {
+                    "name": "BTC / DASH",
+                    "icon": "DASH"
+                },
+                "DGB": {
+                    "name": "BTC / DGB",
+                    "icon": "DGB"
+                },
+                "DOGE": {
+                    "name": "BTC / DOGE",
+                    "icon": "DOGE"
+                },
+                "EMC2": {
+                    "name": "BTC / EMC2",
+                    "icon": "EMC2"
+                },
+                "FLDC": {
+                    "name": "BTC / FLDC",
+                    "icon": "FLDC"
+                },
+                "FLO": {
+                    "name": "BTC / FLO",
+                    "icon": "FLO"
+                },
+                "GAME": {
+                    "name": "BTC / GAME",
+                    "icon": "GAME"
+                },
+                "GRC": {
+                    "name": "BTC / GRC",
+                    "icon": "GRC"
+                },
+                "HUC": {
+                    "name": "BTC / HUC",
+                    "icon": "HUC"
+                },
+                "LTC": {
+                    "name": "BTC / LTC",
+                    "icon": "LTC"
+                },
+                "MAID": {
+                    "name": "BTC / MAID",
+                    "icon": "MAID"
+                },
+                "OMNI": {
+                    "name": "BTC / OMNI",
+                    "icon": "OMNI"
+                },
+                "NAUT": {
+                    "name": "BTC / NAUT",
+                    "icon": "NAUT"
+                },
+                "NAV": {
+                    "name": "BTC / NAV",
+                    "icon": "NAV"
+                },
+                "NEOS": {
+                    "name": "BTC / NEOS",
+                    "icon": "NEOS"
+                },
+                "NMC": {
+                    "name": "BTC / NMC",
+                    "icon": "NMC"
+                },
+                "NOTE": {
+                    "name": "BTC / NOTE",
+                    "icon": "NOTE"
+                },
+                "NXT": {
+                    "name": "BTC / NXT",
+                    "icon": "NXT"
+                },
+                "PINK": {
+                    "name": "BTC / PINK",
+                    "icon": "PINK"
+                },
+                "POT": {
+                    "name": "BTC / POT",
+                    "icon": "POT"
+                },
+                "PPC": {
+                    "name": "BTC / PPC",
+                    "icon": "PPC"
+                },
+                "RIC": {
+                    "name": "BTC / RIC",
+                    "icon": "RIC"
+                },
+                "SJCX": {
+                    "name": "BTC / SJCX",
+                    "icon": "SJCX"
+                },
+                "STR": {
+                    "name": "BTC / STR",
+                    "icon": "STR"
+                },
+                "SYS": {
+                    "name": "BTC / SYS",
+                    "icon": "SYS"
+                },
+                "VIA": {
+                    "name": "BTC / VIA",
+                    "icon": "VIA"
+                },
+                "XVC": {
+                    "name": "BTC / XVC",
+                    "icon": "XVC"
+                },
+                "VRC": {
+                    "name": "BTC / VRC",
+                    "icon": "VRC"
+                },
+                "VTC": {
+                    "name": "BTC / VTC",
+                    "icon": "VTC"
+                },
+                "XBC": {
+                    "name": "BTC / XBC",
+                    "icon": "XBC"
+                },
+                "XCP": {
+                    "name": "BTC / XCP",
+                    "icon": "XCP"
+                },
+                "XEM": {
+                    "name": "BTC / XEM",
+                    "icon": "XEM"
+                },
+                "XMR": {
+                    "name": "BTC / XMR",
+                    "icon": "XMR"
+                },
+                "XPM": {
+                    "name": "BTC / XPM",
+                    "icon": "XPM"
+                },
+                "XRP": {
+                    "name": "BTC / XRP",
+                    "icon": "XRP"
+                },
+                "ETH": {
+                    "name": "BTC / ETH",
+                    "icon": "ETH"
+                },
+                "SC": {
+                    "name": "BTC / SC",
+                    "icon": "SC"
+                },
+                "BCY": {
+                    "name": "BTC / BCY",
+                    "icon": "BCY"
+                },
+                "EXP": {
+                    "name": "BTC / EXP",
+                    "icon": "EXP"
+                },
+                "FCT": {
+                    "name": "BTC / FCT",
+                    "icon": "FCT"
+                },
+                "RADS": {
+                    "name": "BTC / RADS",
+                    "icon": "RADS"
+                },
+                "AMP": {
+                    "name": "BTC / AMP",
+                    "icon": "AMP"
+                },
+                "DCR": {
+                    "name": "BTC / DCR",
+                    "icon": "DCR"
+                },
+                "LSK": {
+                    "name": "BTC / LSK",
+                    "icon": "LSK"
+                },
+                "LBC": {
+                    "name": "BTC / LBC",
+                    "icon": "LBC"
+                },
+                "STEEM": {
+                    "name": "BTC / STEEM",
+                    "icon": "STEEM"
+                },
+                "SBD": {
+                    "name": "BTC / SBD",
+                    "icon": "SBD"
+                },
+                "ETC": {
+                    "name": "BTC / ETC",
+                    "icon": "ETC"
+                },
+                "REP": {
+                    "name": "BTC / REP",
+                    "icon": "REP"
+                },
+                "ARDR": {
+                    "name": "BTC / ARDR",
+                    "icon": "ARDR"
+                },
+                "ZEC": {
+                    "name": "BTC / ZEC",
+                    "icon": "ZEC"
+                },
+                "STRAT": {
+                    "name": "BTC / STRAT",
+                    "icon": "STRAT"
+                },
+                "NXC": {
+                    "name": "BTC / NXC",
+                    "icon": "NXC"
+                },
+                "PASC": {
+                    "name": "BTC / PASC",
+                    "icon": "PASC"
+                },
+                "GNT": {
+                    "name": "BTC / GNT",
+                    "icon": "GNT"
+                },
+                "GNO": {
+                    "name": "BTC / GNO",
+                    "icon": "GNO"
+                },
+                "BCH": {
+                    "name": "BTC / BCH",
+                    "icon": "BCH"
+                },
+                "ZRX": {
+                    "name": "BTC / ZRX",
+                    "icon": "ZRX"
+                },
+                "CVC": {
+                    "name": "BTC / CVC",
+                    "icon": "CVC"
+                },
+                "OMG": {
+                    "name": "BTC / OMG",
+                    "icon": "OMG"
+                },
+                "GAS": {
+                    "name": "BTC / GAS",
+                    "icon": "GAS"
+                }
+            }
+        },
+        "USDT": {
+            "name": "USDT",
+            "currencies": {
+                "BTC": {
+                    "name": "USDT / BTC",
+                    "icon": "BTC"
+                },
+                "DASH": {
+                    "name": "USDT / DASH",
+                    "icon": "DASH"
+                },
+                "LTC": {
+                    "name": "USDT / LTC",
+                    "icon": "LTC"
+                },
+                "NXT": {
+                    "name": "USDT / NXT",
+                    "icon": "NXT"
+                },
+                "STR": {
+                    "name": "USDT / STR",
+                    "icon": "STR"
+                },
+                "XMR": {
+                    "name": "USDT / XMR",
+                    "icon": "XMR"
+                },
+                "XRP": {
+                    "name": "USDT / XRP",
+                    "icon": "XRP"
+                },
+                "ETH": {
+                    "name": "USDT / ETH",
+                    "icon": "ETH"
+                },
+                "ETC": {
+                    "name": "USDT / ETC",
+                    "icon": "ETC"
+                },
+                "REP": {
+                    "name": "USDT / REP",
+                    "icon": "REP"
+                },
+                "ZEC": {
+                    "name": "USDT / ZEC",
+                    "icon": "ZEC"
+                },
+                "BCH": {
+                    "name": "USDT / BCH",
+                    "icon": "BCH"
+                }
+            }
+        },
+        "XMR": {
+            "name": "XMR",
+            "currencies": {
+                "BCN": {
+                    "name": "XMR / BCN",
+                    "icon": "BCN"
+                },
+                "BLK": {
+                    "name": "XMR / BLK",
+                    "icon": "BLK"
+                },
+                "BTCD": {
+                    "name": "XMR / BTCD",
+                    "icon": "BTCD"
+                },
+                "DASH": {
+                    "name": "XMR / DASH",
+                    "icon": "DASH"
+                },
+                "LTC": {
+                    "name": "XMR / LTC",
+                    "icon": "LTC"
+                },
+                "MAID": {
+                    "name": "XMR / MAID",
+                    "icon": "MAID"
+                },
+                "NXT": {
+                    "name": "XMR / NXT",
+                    "icon": "NXT"
+                },
+                "ZEC": {
+                    "name": "XMR / ZEC",
+                    "icon": "ZEC"
+                }
+            }
+        },
+        "ETH": {
+            "name": "ETH",
+            "currencies": {
+                "LSK": {
+                    "name": "ETH / LSK",
+                    "icon": "LSK"
+                },
+                "STEEM": {
+                    "name": "ETH / STEEM",
+                    "icon": "STEEM"
+                },
+                "ETC": {
+                    "name": "ETH / ETC",
+                    "icon": "ETC"
+                },
+                "REP": {
+                    "name": "ETH / REP",
+                    "icon": "REP"
+                },
+                "ZEC": {
+                    "name": "ETH / ZEC",
+                    "icon": "ZEC"
+                },
+                "GNT": {
+                    "name": "ETH / GNT",
+                    "icon": "GNT"
+                },
+                "GNO": {
+                    "name": "ETH / GNO",
+                    "icon": "GNO"
+                },
+                "BCH": {
+                    "name": "ETH / BCH",
+                    "icon": "BCH"
+                },
+                "ZRX": {
+                    "name": "ETH / ZRX",
+                    "icon": "ZRX"
+                },
+                "CVC": {
+                    "name": "ETH / CVC",
+                    "icon": "CVC"
+                },
+                "OMG": {
+                    "name": "ETH / OMG",
+                    "icon": "OMG"
+                },
+                "GAS": {
+                    "name": "ETH / GAS",
+                    "icon": "GAS"
+                }
+            }
+        }
+    },
+    "queries": {
+        "getVolume": "Volume",
+        "getQuoteVolume": "Quote Volume",
+        "getAverage": "Price",
+        "getHigh": "High",
+        "getLow": "Low"
+    }
+}

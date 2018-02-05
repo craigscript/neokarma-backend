@@ -1,0 +1,22 @@
+import * as LPF from "lpf";
+
+export class LowPassFilter
+{
+	
+	applyFilter(data:any[])
+	{
+		LPF.smoothing = 0.05;
+		var values = data.map((item) => {
+			return item.value;
+		});
+
+		var result = LPF.smoothArray(values);
+		for(var i=0;i<result.length;++i)
+		{
+			data[i].value = result[i];
+		}
+		return data;
+	}
+		
+		
+};

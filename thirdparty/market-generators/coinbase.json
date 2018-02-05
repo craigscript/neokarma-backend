@@ -1,0 +1,63 @@
+{
+    "name": "Coinbase (GDAX)",
+    "markets": {
+        "LTC": {
+            "name": "LTC",
+            "currencies": {
+                "EUR": {
+                    "name": "LTC / EUR",
+                    "icon": "EUR"
+                },
+                "BTC": {
+                    "name": "LTC / BTC",
+                    "icon": "BTC"
+                },
+                "USD": {
+                    "name": "LTC / USD",
+                    "icon": "USD"
+                }
+            }
+        },
+        "BTC": {
+            "name": "BTC",
+            "currencies": {
+                "GBP": {
+                    "name": "BTC / GBP",
+                    "icon": "GBP"
+                },
+                "EUR": {
+                    "name": "BTC / EUR",
+                    "icon": "EUR"
+                },
+                "USD": {
+                    "name": "BTC / USD",
+                    "icon": "USD"
+                }
+            }
+        },
+        "ETH": {
+            "name": "ETH",
+            "currencies": {
+                "USD": {
+                    "name": "ETH / USD",
+                    "icon": "USD"
+                },
+                "EUR": {
+                    "name": "ETH / EUR",
+                    "icon": "EUR"
+                },
+                "BTC": {
+                    "name": "ETH / BTC",
+                    "icon": "BTC"
+                }
+            }
+        }
+    },
+    "queries": {
+        "getVolume": "Volume",
+        "getQuoteVolume": "Quote Volume",
+        "getAverage": "Price",
+        "getHigh": "High",
+        "getLow": "Low"
+    }
+}

@@ -1,0 +1,1 @@
+node ./build/server/app.js

@@ -1,0 +1,1631 @@
+{
+    "name": "Coinmarketcap",
+    "markets": {
+        "USD": {
+            "name": "USD",
+            "currencies": {
+                "BTC": {
+                    "name": "USD / BTC",
+                    "icon": "BTC"
+                },
+                "ETH": {
+                    "name": "USD / ETH",
+                    "icon": "ETH"
+                },
+                "BCH": {
+                    "name": "USD / BCH",
+                    "icon": "BCH"
+                },
+                "XRP": {
+                    "name": "USD / XRP",
+                    "icon": "XRP"
+                },
+                "LTC": {
+                    "name": "USD / LTC",
+                    "icon": "LTC"
+                },
+                "DASH": {
+                    "name": "USD / DASH",
+                    "icon": "DASH"
+                },
+                "XEM": {
+                    "name": "USD / XEM",
+                    "icon": "XEM"
+                },
+                "MIOTA": {
+                    "name": "USD / MIOTA",
+                    "icon": "MIOTA"
+                },
+                "XMR": {
+                    "name": "USD / XMR",
+                    "icon": "XMR"
+                },
+                "NEO": {
+                    "name": "USD / NEO",
+                    "icon": "NEO"
+                },
+                "ETC": {
+                    "name": "USD / ETC",
+                    "icon": "ETC"
+                },
+                "OMG": {
+                    "name": "USD / OMG",
+                    "icon": "OMG"
+                },
+                "BCC": {
+                    "name": "USD / BCC",
+                    "icon": "BCC"
+                },
+                "LSK": {
+                    "name": "USD / LSK",
+                    "icon": "LSK"
+                },
+                "QTUM": {
+                    "name": "USD / QTUM",
+                    "icon": "QTUM"
+                },
+                "ZEC": {
+                    "name": "USD / ZEC",
+                    "icon": "ZEC"
+                },
+                "USDT": {
+                    "name": "USD / USDT",
+                    "icon": "USDT"
+                },
+                "WAVES": {
+                    "name": "USD / WAVES",
+                    "icon": "WAVES"
+                },
+                "STRAT": {
+                    "name": "USD / STRAT",
+                    "icon": "STRAT"
+                },
+                "ARK": {
+                    "name": "USD / ARK",
+                    "icon": "ARK"
+                },
+                "STEEM": {
+                    "name": "USD / STEEM",
+                    "icon": "STEEM"
+                },
+                "PAY": {
+                    "name": "USD / PAY",
+                    "icon": "PAY"
+                },
+                "BCN": {
+                    "name": "USD / BCN",
+                    "icon": "BCN"
+                },
+                "MAID": {
+                    "name": "USD / MAID",
+                    "icon": "MAID"
+                },
+                "GNT": {
+                    "name": "USD / GNT",
+                    "icon": "GNT"
+                },
+                "BAT": {
+                    "name": "USD / BAT",
+                    "icon": "BAT"
+                },
+                "KNC": {
+                    "name": "USD / KNC",
+                    "icon": "KNC"
+                },
+                "REP": {
+                    "name": "USD / REP",
+                    "icon": "REP"
+                },
+                "EOS": {
+                    "name": "USD / EOS",
+                    "icon": "EOS"
+                },
+                "DCR": {
+                    "name": "USD / DCR",
+                    "icon": "DCR"
+                },
+                "XLM": {
+                    "name": "USD / XLM",
+                    "icon": "XLM"
+                },
+                "KMD": {
+                    "name": "USD / KMD",
+                    "icon": "KMD"
+                },
+                "HSR": {
+                    "name": "USD / HSR",
+                    "icon": "HSR"
+                },
+                "BTS": {
+                    "name": "USD / BTS",
+                    "icon": "BTS"
+                },
+                "VERI": {
+                    "name": "USD / VERI",
+                    "icon": "VERI"
+                },
+                "PIVX": {
+                    "name": "USD / PIVX",
+                    "icon": "PIVX"
+                },
+                "MTL": {
+                    "name": "USD / MTL",
+                    "icon": "MTL"
+                },
+                "ICN": {
+                    "name": "USD / ICN",
+                    "icon": "ICN"
+                },
+                "FCT": {
+                    "name": "USD / FCT",
+                    "icon": "FCT"
+                },
+                "DGD": {
+                    "name": "USD / DGD",
+                    "icon": "DGD"
+                },
+                "SC": {
+                    "name": "USD / SC",
+                    "icon": "SC"
+                },
+                "GAS": {
+                    "name": "USD / GAS",
+                    "icon": "GAS"
+                },
+                "GBYTE": {
+                    "name": "USD / GBYTE",
+                    "icon": "GBYTE"
+                },
+                "ARDR": {
+                    "name": "USD / ARDR",
+                    "icon": "ARDR"
+                },
+                "DGB": {
+                    "name": "USD / DGB",
+                    "icon": "DGB"
+                },
+                "CVC": {
+                    "name": "USD / CVC",
+                    "icon": "CVC"
+                },
+                "BTCD": {
+                    "name": "USD / BTCD",
+                    "icon": "BTCD"
+                },
+                "PPT": {
+                    "name": "USD / PPT",
+                    "icon": "PPT"
+                },
+                "GAME": {
+                    "name": "USD / GAME",
+                    "icon": "GAME"
+                },
+                "DOGE": {
+                    "name": "USD / DOGE",
+                    "icon": "DOGE"
+                },
+                "NXS": {
+                    "name": "USD / NXS",
+                    "icon": "NXS"
+                },
+                "SNGLS": {
+                    "name": "USD / SNGLS",
+                    "icon": "SNGLS"
+                },
+                "GNO": {
+                    "name": "USD / GNO",
+                    "icon": "GNO"
+                },
+                "MCAP": {
+                    "name": "USD / MCAP",
+                    "icon": "MCAP"
+                },
+                "BTM": {
+                    "name": "USD / BTM",
+                    "icon": "BTM"
+                },
+                "BNT": {
+                    "name": "USD / BNT",
+                    "icon": "BNT"
+                },
+                "ZRX": {
+                    "name": "USD / ZRX",
+                    "icon": "ZRX"
+                },
+                "LKK": {
+                    "name": "USD / LKK",
+                    "icon": "LKK"
+                },
+                "AE": {
+                    "name": "USD / AE",
+                    "icon": "AE"
+                },
+                "BLOCK": {
+                    "name": "USD / BLOCK",
+                    "icon": "BLOCK"
+                },
+                "GXS": {
+                    "name": "USD / GXS",
+                    "icon": "GXS"
+                },
+                "MCO": {
+                    "name": "USD / MCO",
+                    "icon": "MCO"
+                },
+                "BNB": {
+                    "name": "USD / BNB",
+                    "icon": "BNB"
+                },
+                "FUN": {
+                    "name": "USD / FUN",
+                    "icon": "FUN"
+                },
+                "SNT": {
+                    "name": "USD / SNT",
+                    "icon": "SNT"
+                },
+                "EDG": {
+                    "name": "USD / EDG",
+                    "icon": "EDG"
+                },
+                "XVG": {
+                    "name": "USD / XVG",
+                    "icon": "XVG"
+                },
+                "SYS": {
+                    "name": "USD / SYS",
+                    "icon": "SYS"
+                },
+                "FRST": {
+                    "name": "USD / FRST",
+                    "icon": "FRST"
+                },
+                "BDL": {
+                    "name": "USD / BDL",
+                    "icon": "BDL"
+                },
+                "NXT": {
+                    "name": "USD / NXT",
+                    "icon": "NXT"
+                },
+                "ANT": {
+                    "name": "USD / ANT",
+                    "icon": "ANT"
+                },
+                "LINK": {
+                    "name": "USD / LINK",
+                    "icon": "LINK"
+                },
+                "IOC": {
+                    "name": "USD / IOC",
+                    "icon": "IOC"
+                },
+                "UBQ": {
+                    "name": "USD / UBQ",
+                    "icon": "UBQ"
+                },
+                "PART": {
+                    "name": "USD / PART",
+                    "icon": "PART"
+                },
+                "BQX": {
+                    "name": "USD / BQX",
+                    "icon": "BQX"
+                },
+                "RISE": {
+                    "name": "USD / RISE",
+                    "icon": "RISE"
+                },
+                "WINGS": {
+                    "name": "USD / WINGS",
+                    "icon": "WINGS"
+                },
+                "DCN": {
+                    "name": "USD / DCN",
+                    "icon": "DCN"
+                },
+                "NAV": {
+                    "name": "USD / NAV",
+                    "icon": "NAV"
+                },
+                "WTC": {
+                    "name": "USD / WTC",
+                    "icon": "WTC"
+                },
+                "STORJ": {
+                    "name": "USD / STORJ",
+                    "icon": "STORJ"
+                },
+                "MGO": {
+                    "name": "USD / MGO",
+                    "icon": "MGO"
+                },
+                "RDD": {
+                    "name": "USD / RDD",
+                    "icon": "RDD"
+                },
+                "CFI": {
+                    "name": "USD / CFI",
+                    "icon": "CFI"
+                },
+                "PLR": {
+                    "name": "USD / PLR",
+                    "icon": "PLR"
+                },
+                "RLC": {
+                    "name": "USD / RLC",
+                    "icon": "RLC"
+                },
+                "NLG": {
+                    "name": "USD / NLG",
+                    "icon": "NLG"
+                },
+                "XEL": {
+                    "name": "USD / XEL",
+                    "icon": "XEL"
+                },
+                "LRC": {
+                    "name": "USD / LRC",
+                    "icon": "LRC"
+                },
+                "VTC": {
+                    "name": "USD / VTC",
+                    "icon": "VTC"
+                },
+                "FAIR": {
+                    "name": "USD / FAIR",
+                    "icon": "FAIR"
+                },
+                "NLC2": {
+                    "name": "USD / NLC2",
+                    "icon": "NLC2"
+                },
+                "ADK": {
+                    "name": "USD / ADK",
+                    "icon": "ADK"
+                },
+                "CLOAK": {
+                    "name": "USD / CLOAK",
+                    "icon": "CLOAK"
+                },
+                "MLN": {
+                    "name": "USD / MLN",
+                    "icon": "MLN"
+                },
+                "TRIG": {
+                    "name": "USD / TRIG",
+                    "icon": "TRIG"
+                },
+                "TKN": {
+                    "name": "USD / TKN",
+                    "icon": "TKN"
+                },
+                "XZC": {
+                    "name": "USD / XZC",
+                    "icon": "XZC"
+                },
+                "ADX": {
+                    "name": "USD / ADX",
+                    "icon": "ADX"
+                },
+                "XRL": {
+                    "name": "USD / XRL",
+                    "icon": "XRL"
+                },
+                "PPC": {
+                    "name": "USD / PPC",
+                    "icon": "PPC"
+                },
+                "QRL": {
+                    "name": "USD / QRL",
+                    "icon": "QRL"
+                },
+                "PTOY": {
+                    "name": "USD / PTOY",
+                    "icon": "PTOY"
+                },
+                "TNT": {
+                    "name": "USD / TNT",
+                    "icon": "TNT"
+                },
+                "TRST": {
+                    "name": "USD / TRST",
+                    "icon": "TRST"
+                },
+                "ETP": {
+                    "name": "USD / ETP",
+                    "icon": "ETP"
+                },
+                "NXC": {
+                    "name": "USD / NXC",
+                    "icon": "NXC"
+                },
+                "TAAS": {
+                    "name": "USD / TAAS",
+                    "icon": "TAAS"
+                },
+                "XCP": {
+                    "name": "USD / XCP",
+                    "icon": "XCP"
+                },
+                "DCT": {
+                    "name": "USD / DCT",
+                    "icon": "DCT"
+                },
+                "1ST": {
+                    "name": "USD / 1ST",
+                    "icon": "1ST"
+                },
+                "MTH": {
+                    "name": "USD / MTH",
+                    "icon": "MTH"
+                },
+                "MONA": {
+                    "name": "USD / MONA",
+                    "icon": "MONA"
+                },
+                "OK": {
+                    "name": "USD / OK",
+                    "icon": "OK"
+                },
+                "EMC": {
+                    "name": "USD / EMC",
+                    "icon": "EMC"
+                },
+                "SNM": {
+                    "name": "USD / SNM",
+                    "icon": "SNM"
+                },
+                "DLT": {
+                    "name": "USD / DLT",
+                    "icon": "DLT"
+                },
+                "VIA": {
+                    "name": "USD / VIA",
+                    "icon": "VIA"
+                },
+                "TCC": {
+                    "name": "USD / TCC",
+                    "icon": "TCC"
+                },
+                "LEO": {
+                    "name": "USD / LEO",
+                    "icon": "LEO"
+                },
+                "CLAM": {
+                    "name": "USD / CLAM",
+                    "icon": "CLAM"
+                },
+                "XAUR": {
+                    "name": "USD / XAUR",
+                    "icon": "XAUR"
+                },
+                "CRW": {
+                    "name": "USD / CRW",
+                    "icon": "CRW"
+                },
+                "ADT": {
+                    "name": "USD / ADT",
+                    "icon": "ADT"
+                },
+                "DICE": {
+                    "name": "USD / DICE",
+                    "icon": "DICE"
+                },
+                "BMC": {
+                    "name": "USD / BMC",
+                    "icon": "BMC"
+                },
+                "MSP": {
+                    "name": "USD / MSP",
+                    "icon": "MSP"
+                },
+                "BAY": {
+                    "name": "USD / BAY",
+                    "icon": "BAY"
+                },
+                "ION": {
+                    "name": "USD / ION",
+                    "icon": "ION"
+                },
+                "DNT": {
+                    "name": "USD / DNT",
+                    "icon": "DNT"
+                },
+                "HMQ": {
+                    "name": "USD / HMQ",
+                    "icon": "HMQ"
+                },
+                "VSL": {
+                    "name": "USD / VSL",
+                    "icon": "VSL"
+                },
+                "SAFEX": {
+                    "name": "USD / SAFEX",
+                    "icon": "SAFEX"
+                },
+                "NMC": {
+                    "name": "USD / NMC",
+                    "icon": "NMC"
+                },
+                "UNO": {
+                    "name": "USD / UNO",
+                    "icon": "UNO"
+                },
+                "DMD": {
+                    "name": "USD / DMD",
+                    "icon": "DMD"
+                },
+                "MUE": {
+                    "name": "USD / MUE",
+                    "icon": "MUE"
+                },
+                "PLBT": {
+                    "name": "USD / PLBT",
+                    "icon": "PLBT"
+                },
+                "NMR": {
+                    "name": "USD / NMR",
+                    "icon": "NMR"
+                },
+                "SAN": {
+                    "name": "USD / SAN",
+                    "icon": "SAN"
+                },
+                "SKY": {
+                    "name": "USD / SKY",
+                    "icon": "SKY"
+                },
+                "LUN": {
+                    "name": "USD / LUN",
+                    "icon": "LUN"
+                },
+                "ROUND": {
+                    "name": "USD / ROUND",
+                    "icon": "ROUND"
+                },
+                "SIB": {
+                    "name": "USD / SIB",
+                    "icon": "SIB"
+                },
+                "EXP": {
+                    "name": "USD / EXP",
+                    "icon": "EXP"
+                },
+                "CDT": {
+                    "name": "USD / CDT",
+                    "icon": "CDT"
+                },
+                "MYST": {
+                    "name": "USD / MYST",
+                    "icon": "MYST"
+                },
+                "XDN": {
+                    "name": "USD / XDN",
+                    "icon": "XDN"
+                },
+                "POT": {
+                    "name": "USD / POT",
+                    "icon": "POT"
+                },
+                "ZEN": {
+                    "name": "USD / ZEN",
+                    "icon": "ZEN"
+                },
+                "SPR": {
+                    "name": "USD / SPR",
+                    "icon": "SPR"
+                },
+                "AGRS": {
+                    "name": "USD / AGRS",
+                    "icon": "AGRS"
+                },
+                "OMNI": {
+                    "name": "USD / OMNI",
+                    "icon": "OMNI"
+                },
+                "CMP": {
+                    "name": "USD / CMP",
+                    "icon": "CMP"
+                },
+                "EMC2": {
+                    "name": "USD / EMC2",
+                    "icon": "EMC2"
+                },
+                "XPA": {
+                    "name": "USD / XPA",
+                    "icon": "XPA"
+                },
+                "BURST": {
+                    "name": "USD / BURST",
+                    "icon": "BURST"
+                },
+                "SHIFT": {
+                    "name": "USD / SHIFT",
+                    "icon": "SHIFT"
+                },
+                "XAS": {
+                    "name": "USD / XAS",
+                    "icon": "XAS"
+                },
+                "LBC": {
+                    "name": "USD / LBC",
+                    "icon": "LBC"
+                },
+                "RADS": {
+                    "name": "USD / RADS",
+                    "icon": "RADS"
+                },
+                "STX": {
+                    "name": "USD / STX",
+                    "icon": "STX"
+                },
+                "RBY": {
+                    "name": "USD / RBY",
+                    "icon": "RBY"
+                },
+                "ENRG": {
+                    "name": "USD / ENRG",
+                    "icon": "ENRG"
+                },
+                "QAU": {
+                    "name": "USD / QAU",
+                    "icon": "QAU"
+                },
+                "MXT": {
+                    "name": "USD / MXT",
+                    "icon": "MXT"
+                },
+                "BLK": {
+                    "name": "USD / BLK",
+                    "icon": "BLK"
+                },
+                "POE": {
+                    "name": "USD / POE",
+                    "icon": "POE"
+                },
+                "NEBL": {
+                    "name": "USD / NEBL",
+                    "icon": "NEBL"
+                },
+                "SLS": {
+                    "name": "USD / SLS",
+                    "icon": "SLS"
+                },
+                "GAM": {
+                    "name": "USD / GAM",
+                    "icon": "GAM"
+                },
+                "SUB": {
+                    "name": "USD / SUB",
+                    "icon": "SUB"
+                },
+                "XC": {
+                    "name": "USD / XC",
+                    "icon": "XC"
+                },
+                "ATCC": {
+                    "name": "USD / ATCC",
+                    "icon": "ATCC"
+                },
+                "GUP": {
+                    "name": "USD / GUP",
+                    "icon": "GUP"
+                },
+                "TIME": {
+                    "name": "USD / TIME",
+                    "icon": "TIME"
+                },
+                "WGR": {
+                    "name": "USD / WGR",
+                    "icon": "WGR"
+                },
+                "AMP": {
+                    "name": "USD / AMP",
+                    "icon": "AMP"
+                },
+                "GRC": {
+                    "name": "USD / GRC",
+                    "icon": "GRC"
+                },
+                "AEON": {
+                    "name": "USD / AEON",
+                    "icon": "AEON"
+                },
+                "SWT": {
+                    "name": "USD / SWT",
+                    "icon": "SWT"
+                },
+                "ECN": {
+                    "name": "USD / ECN",
+                    "icon": "ECN"
+                },
+                "LMC": {
+                    "name": "USD / LMC",
+                    "icon": "LMC"
+                },
+                "GOLOS": {
+                    "name": "USD / GOLOS",
+                    "icon": "GOLOS"
+                },
+                "IFT": {
+                    "name": "USD / IFT",
+                    "icon": "IFT"
+                },
+                "WCT": {
+                    "name": "USD / WCT",
+                    "icon": "WCT"
+                },
+                "MDA": {
+                    "name": "USD / MDA",
+                    "icon": "MDA"
+                },
+                "DTB": {
+                    "name": "USD / DTB",
+                    "icon": "DTB"
+                },
+                "PST": {
+                    "name": "USD / PST",
+                    "icon": "PST"
+                },
+                "GRS": {
+                    "name": "USD / GRS",
+                    "icon": "GRS"
+                },
+                "BCAP": {
+                    "name": "USD / BCAP",
+                    "icon": "BCAP"
+                },
+                "SPRTS": {
+                    "name": "USD / SPRTS",
+                    "icon": "SPRTS"
+                },
+                "VOX": {
+                    "name": "USD / VOX",
+                    "icon": "VOX"
+                },
+                "EDR": {
+                    "name": "USD / EDR",
+                    "icon": "EDR"
+                },
+                "NEOS": {
+                    "name": "USD / NEOS",
+                    "icon": "NEOS"
+                },
+                "XRB": {
+                    "name": "USD / XRB",
+                    "icon": "XRB"
+                },
+                "MOON": {
+                    "name": "USD / MOON",
+                    "icon": "MOON"
+                },
+                "FLO": {
+                    "name": "USD / FLO",
+                    "icon": "FLO"
+                },
+                "VRC": {
+                    "name": "USD / VRC",
+                    "icon": "VRC"
+                }
+            }
+        },
+        "BTC": {
+            "name": "BTC",
+            "currencies": {
+                "ETH": {
+                    "name": "BTC / ETH",
+                    "icon": "ETH"
+                },
+                "BCH": {
+                    "name": "BTC / BCH",
+                    "icon": "BCH"
+                },
+                "XRP": {
+                    "name": "BTC / XRP",
+                    "icon": "XRP"
+                },
+                "LTC": {
+                    "name": "BTC / LTC",
+                    "icon": "LTC"
+                },
+                "DASH": {
+                    "name": "BTC / DASH",
+                    "icon": "DASH"
+                },
+                "XEM": {
+                    "name": "BTC / XEM",
+                    "icon": "XEM"
+                },
+                "MIOTA": {
+                    "name": "BTC / MIOTA",
+                    "icon": "MIOTA"
+                },
+                "XMR": {
+                    "name": "BTC / XMR",
+                    "icon": "XMR"
+                },
+                "NEO": {
+                    "name": "BTC / NEO",
+                    "icon": "NEO"
+                },
+                "ETC": {
+                    "name": "BTC / ETC",
+                    "icon": "ETC"
+                },
+                "OMG": {
+                    "name": "BTC / OMG",
+                    "icon": "OMG"
+                },
+                "BCC": {
+                    "name": "BTC / BCC",
+                    "icon": "BCC"
+                },
+                "LSK": {
+                    "name": "BTC / LSK",
+                    "icon": "LSK"
+                },
+                "QTUM": {
+                    "name": "BTC / QTUM",
+                    "icon": "QTUM"
+                },
+                "ZEC": {
+                    "name": "BTC / ZEC",
+                    "icon": "ZEC"
+                },
+                "USDT": {
+                    "name": "BTC / USDT",
+                    "icon": "USDT"
+                },
+                "WAVES": {
+                    "name": "BTC / WAVES",
+                    "icon": "WAVES"
+                },
+                "STRAT": {
+                    "name": "BTC / STRAT",
+                    "icon": "STRAT"
+                },
+                "ARK": {
+                    "name": "BTC / ARK",
+                    "icon": "ARK"
+                },
+                "STEEM": {
+                    "name": "BTC / STEEM",
+                    "icon": "STEEM"
+                },
+                "PAY": {
+                    "name": "BTC / PAY",
+                    "icon": "PAY"
+                },
+                "BCN": {
+                    "name": "BTC / BCN",
+                    "icon": "BCN"
+                },
+                "MAID": {
+                    "name": "BTC / MAID",
+                    "icon": "MAID"
+                },
+                "GNT": {
+                    "name": "BTC / GNT",
+                    "icon": "GNT"
+                },
+                "BAT": {
+                    "name": "BTC / BAT",
+                    "icon": "BAT"
+                },
+                "KNC": {
+                    "name": "BTC / KNC",
+                    "icon": "KNC"
+                },
+                "REP": {
+                    "name": "BTC / REP",
+                    "icon": "REP"
+                },
+                "EOS": {
+                    "name": "BTC / EOS",
+                    "icon": "EOS"
+                },
+                "DCR": {
+                    "name": "BTC / DCR",
+                    "icon": "DCR"
+                },
+                "XLM": {
+                    "name": "BTC / XLM",
+                    "icon": "XLM"
+                },
+                "KMD": {
+                    "name": "BTC / KMD",
+                    "icon": "KMD"
+                },
+                "HSR": {
+                    "name": "BTC / HSR",
+                    "icon": "HSR"
+                },
+                "BTS": {
+                    "name": "BTC / BTS",
+                    "icon": "BTS"
+                },
+                "VERI": {
+                    "name": "BTC / VERI",
+                    "icon": "VERI"
+                },
+                "PIVX": {
+                    "name": "BTC / PIVX",
+                    "icon": "PIVX"
+                },
+                "MTL": {
+                    "name": "BTC / MTL",
+                    "icon": "MTL"
+                },
+                "ICN": {
+                    "name": "BTC / ICN",
+                    "icon": "ICN"
+                },
+                "FCT": {
+                    "name": "BTC / FCT",
+                    "icon": "FCT"
+                },
+                "DGD": {
+                    "name": "BTC / DGD",
+                    "icon": "DGD"
+                },
+                "SC": {
+                    "name": "BTC / SC",
+                    "icon": "SC"
+                },
+                "GAS": {
+                    "name": "BTC / GAS",
+                    "icon": "GAS"
+                },
+                "GBYTE": {
+                    "name": "BTC / GBYTE",
+                    "icon": "GBYTE"
+                },
+                "ARDR": {
+                    "name": "BTC / ARDR",
+                    "icon": "ARDR"
+                },
+                "DGB": {
+                    "name": "BTC / DGB",
+                    "icon": "DGB"
+                },
+                "CVC": {
+                    "name": "BTC / CVC",
+                    "icon": "CVC"
+                },
+                "BTCD": {
+                    "name": "BTC / BTCD",
+                    "icon": "BTCD"
+                },
+                "PPT": {
+                    "name": "BTC / PPT",
+                    "icon": "PPT"
+                },
+                "GAME": {
+                    "name": "BTC / GAME",
+                    "icon": "GAME"
+                },
+                "DOGE": {
+                    "name": "BTC / DOGE",
+                    "icon": "DOGE"
+                },
+                "NXS": {
+                    "name": "BTC / NXS",
+                    "icon": "NXS"
+                },
+                "SNGLS": {
+                    "name": "BTC / SNGLS",
+                    "icon": "SNGLS"
+                },
+                "GNO": {
+                    "name": "BTC / GNO",
+                    "icon": "GNO"
+                },
+                "MCAP": {
+                    "name": "BTC / MCAP",
+                    "icon": "MCAP"
+                },
+                "BTM": {
+                    "name": "BTC / BTM",
+                    "icon": "BTM"
+                },
+                "BNT": {
+                    "name": "BTC / BNT",
+                    "icon": "BNT"
+                },
+                "ZRX": {
+                    "name": "BTC / ZRX",
+                    "icon": "ZRX"
+                },
+                "LKK": {
+                    "name": "BTC / LKK",
+                    "icon": "LKK"
+                },
+                "AE": {
+                    "name": "BTC / AE",
+                    "icon": "AE"
+                },
+                "BLOCK": {
+                    "name": "BTC / BLOCK",
+                    "icon": "BLOCK"
+                },
+                "GXS": {
+                    "name": "BTC / GXS",
+                    "icon": "GXS"
+                },
+                "MCO": {
+                    "name": "BTC / MCO",
+                    "icon": "MCO"
+                },
+                "BNB": {
+                    "name": "BTC / BNB",
+                    "icon": "BNB"
+                },
+                "FUN": {
+                    "name": "BTC / FUN",
+                    "icon": "FUN"
+                },
+                "SNT": {
+                    "name": "BTC / SNT",
+                    "icon": "SNT"
+                },
+                "EDG": {
+                    "name": "BTC / EDG",
+                    "icon": "EDG"
+                },
+                "XVG": {
+                    "name": "BTC / XVG",
+                    "icon": "XVG"
+                },
+                "SYS": {
+                    "name": "BTC / SYS",
+                    "icon": "SYS"
+                },
+                "FRST": {
+                    "name": "BTC / FRST",
+                    "icon": "FRST"
+                },
+                "BDL": {
+                    "name": "BTC / BDL",
+                    "icon": "BDL"
+                },
+                "NXT": {
+                    "name": "BTC / NXT",
+                    "icon": "NXT"
+                },
+                "ANT": {
+                    "name": "BTC / ANT",
+                    "icon": "ANT"
+                },
+                "LINK": {
+                    "name": "BTC / LINK",
+                    "icon": "LINK"
+                },
+                "IOC": {
+                    "name": "BTC / IOC",
+                    "icon": "IOC"
+                },
+                "UBQ": {
+                    "name": "BTC / UBQ",
+                    "icon": "UBQ"
+                },
+                "PART": {
+                    "name": "BTC / PART",
+                    "icon": "PART"
+                },
+                "BQX": {
+                    "name": "BTC / BQX",
+                    "icon": "BQX"
+                },
+                "RISE": {
+                    "name": "BTC / RISE",
+                    "icon": "RISE"
+                },
+                "WINGS": {
+                    "name": "BTC / WINGS",
+                    "icon": "WINGS"
+                },
+                "DCN": {
+                    "name": "BTC / DCN",
+                    "icon": "DCN"
+                },
+                "NAV": {
+                    "name": "BTC / NAV",
+                    "icon": "NAV"
+                },
+                "WTC": {
+                    "name": "BTC / WTC",
+                    "icon": "WTC"
+                },
+                "STORJ": {
+                    "name": "BTC / STORJ",
+                    "icon": "STORJ"
+                },
+                "MGO": {
+                    "name": "BTC / MGO",
+                    "icon": "MGO"
+                },
+                "RDD": {
+                    "name": "BTC / RDD",
+                    "icon": "RDD"
+                },
+                "CFI": {
+                    "name": "BTC / CFI",
+                    "icon": "CFI"
+                },
+                "PLR": {
+                    "name": "BTC / PLR",
+                    "icon": "PLR"
+                },
+                "RLC": {
+                    "name": "BTC / RLC",
+                    "icon": "RLC"
+                },
+                "NLG": {
+                    "name": "BTC / NLG",
+                    "icon": "NLG"
+                },
+                "XEL": {
+                    "name": "BTC / XEL",
+                    "icon": "XEL"
+                },
+                "LRC": {
+                    "name": "BTC / LRC",
+                    "icon": "LRC"
+                },
+                "VTC": {
+                    "name": "BTC / VTC",
+                    "icon": "VTC"
+                },
+                "FAIR": {
+                    "name": "BTC / FAIR",
+                    "icon": "FAIR"
+                },
+                "NLC2": {
+                    "name": "BTC / NLC2",
+                    "icon": "NLC2"
+                },
+                "ADK": {
+                    "name": "BTC / ADK",
+                    "icon": "ADK"
+                },
+                "CLOAK": {
+                    "name": "BTC / CLOAK",
+                    "icon": "CLOAK"
+                },
+                "MLN": {
+                    "name": "BTC / MLN",
+                    "icon": "MLN"
+                },
+                "TRIG": {
+                    "name": "BTC / TRIG",
+                    "icon": "TRIG"
+                },
+                "TKN": {
+                    "name": "BTC / TKN",
+                    "icon": "TKN"
+                },
+                "XZC": {
+                    "name": "BTC / XZC",
+                    "icon": "XZC"
+                },
+                "ADX": {
+                    "name": "BTC / ADX",
+                    "icon": "ADX"
+                },
+                "XRL": {
+                    "name": "BTC / XRL",
+                    "icon": "XRL"
+                },
+                "PPC": {
+                    "name": "BTC / PPC",
+                    "icon": "PPC"
+                },
+                "QRL": {
+                    "name": "BTC / QRL",
+                    "icon": "QRL"
+                },
+                "PTOY": {
+                    "name": "BTC / PTOY",
+                    "icon": "PTOY"
+                },
+                "TNT": {
+                    "name": "BTC / TNT",
+                    "icon": "TNT"
+                },
+                "TRST": {
+                    "name": "BTC / TRST",
+                    "icon": "TRST"
+                },
+                "ETP": {
+                    "name": "BTC / ETP",
+                    "icon": "ETP"
+                },
+                "NXC": {
+                    "name": "BTC / NXC",
+                    "icon": "NXC"
+                },
+                "TAAS": {
+                    "name": "BTC / TAAS",
+                    "icon": "TAAS"
+                },
+                "XCP": {
+                    "name": "BTC / XCP",
+                    "icon": "XCP"
+                },
+                "DCT": {
+                    "name": "BTC / DCT",
+                    "icon": "DCT"
+                },
+                "1ST": {
+                    "name": "BTC / 1ST",
+                    "icon": "1ST"
+                },
+                "MTH": {
+                    "name": "BTC / MTH",
+                    "icon": "MTH"
+                },
+                "MONA": {
+                    "name": "BTC / MONA",
+                    "icon": "MONA"
+                },
+                "OK": {
+                    "name": "BTC / OK",
+                    "icon": "OK"
+                },
+                "EMC": {
+                    "name": "BTC / EMC",
+                    "icon": "EMC"
+                },
+                "SNM": {
+                    "name": "BTC / SNM",
+                    "icon": "SNM"
+                },
+                "DLT": {
+                    "name": "BTC / DLT",
+                    "icon": "DLT"
+                },
+                "VIA": {
+                    "name": "BTC / VIA",
+                    "icon": "VIA"
+                },
+                "TCC": {
+                    "name": "BTC / TCC",
+                    "icon": "TCC"
+                },
+                "LEO": {
+                    "name": "BTC / LEO",
+                    "icon": "LEO"
+                },
+                "CLAM": {
+                    "name": "BTC / CLAM",
+                    "icon": "CLAM"
+                },
+                "XAUR": {
+                    "name": "BTC / XAUR",
+                    "icon": "XAUR"
+                },
+                "CRW": {
+                    "name": "BTC / CRW",
+                    "icon": "CRW"
+                },
+                "ADT": {
+                    "name": "BTC / ADT",
+                    "icon": "ADT"
+                },
+                "DICE": {
+                    "name": "BTC / DICE",
+                    "icon": "DICE"
+                },
+                "BMC": {
+                    "name": "BTC / BMC",
+                    "icon": "BMC"
+                },
+                "MSP": {
+                    "name": "BTC / MSP",
+                    "icon": "MSP"
+                },
+                "BAY": {
+                    "name": "BTC / BAY",
+                    "icon": "BAY"
+                },
+                "ION": {
+                    "name": "BTC / ION",
+                    "icon": "ION"
+                },
+                "DNT": {
+                    "name": "BTC / DNT",
+                    "icon": "DNT"
+                },
+                "HMQ": {
+                    "name": "BTC / HMQ",
+                    "icon": "HMQ"
+                },
+                "VSL": {
+                    "name": "BTC / VSL",
+                    "icon": "VSL"
+                },
+                "SAFEX": {
+                    "name": "BTC / SAFEX",
+                    "icon": "SAFEX"
+                },
+                "NMC": {
+                    "name": "BTC / NMC",
+                    "icon": "NMC"
+                },
+                "UNO": {
+                    "name": "BTC / UNO",
+                    "icon": "UNO"
+                },
+                "DMD": {
+                    "name": "BTC / DMD",
+                    "icon": "DMD"
+                },
+                "MUE": {
+                    "name": "BTC / MUE",
+                    "icon": "MUE"
+                },
+                "PLBT": {
+                    "name": "BTC / PLBT",
+                    "icon": "PLBT"
+                },
+                "NMR": {
+                    "name": "BTC / NMR",
+                    "icon": "NMR"
+                },
+                "SAN": {
+                    "name": "BTC / SAN",
+                    "icon": "SAN"
+                },
+                "SKY": {
+                    "name": "BTC / SKY",
+                    "icon": "SKY"
+                },
+                "LUN": {
+                    "name": "BTC / LUN",
+                    "icon": "LUN"
+                },
+                "ROUND": {
+                    "name": "BTC / ROUND",
+                    "icon": "ROUND"
+                },
+                "SIB": {
+                    "name": "BTC / SIB",
+                    "icon": "SIB"
+                },
+                "EXP": {
+                    "name": "BTC / EXP",
+                    "icon": "EXP"
+                },
+                "CDT": {
+                    "name": "BTC / CDT",
+                    "icon": "CDT"
+                },
+                "MYST": {
+                    "name": "BTC / MYST",
+                    "icon": "MYST"
+                },
+                "XDN": {
+                    "name": "BTC / XDN",
+                    "icon": "XDN"
+                },
+                "POT": {
+                    "name": "BTC / POT",
+                    "icon": "POT"
+                },
+                "ZEN": {
+                    "name": "BTC / ZEN",
+                    "icon": "ZEN"
+                },
+                "SPR": {
+                    "name": "BTC / SPR",
+                    "icon": "SPR"
+                },
+                "AGRS": {
+                    "name": "BTC / AGRS",
+                    "icon": "AGRS"
+                },
+                "OMNI": {
+                    "name": "BTC / OMNI",
+                    "icon": "OMNI"
+                },
+                "CMP": {
+                    "name": "BTC / CMP",
+                    "icon": "CMP"
+                },
+                "EMC2": {
+                    "name": "BTC / EMC2",
+                    "icon": "EMC2"
+                },
+                "XPA": {
+                    "name": "BTC / XPA",
+                    "icon": "XPA"
+                },
+                "BURST": {
+                    "name": "BTC / BURST",
+                    "icon": "BURST"
+                },
+                "SHIFT": {
+                    "name": "BTC / SHIFT",
+                    "icon": "SHIFT"
+                },
+                "XAS": {
+                    "name": "BTC / XAS",
+                    "icon": "XAS"
+                },
+                "LBC": {
+                    "name": "BTC / LBC",
+                    "icon": "LBC"
+                },
+                "RADS": {
+                    "name": "BTC / RADS",
+                    "icon": "RADS"
+                },
+                "STX": {
+                    "name": "BTC / STX",
+                    "icon": "STX"
+                },
+                "RBY": {
+                    "name": "BTC / RBY",
+                    "icon": "RBY"
+                },
+                "ENRG": {
+                    "name": "BTC / ENRG",
+                    "icon": "ENRG"
+                },
+                "QAU": {
+                    "name": "BTC / QAU",
+                    "icon": "QAU"
+                },
+                "MXT": {
+                    "name": "BTC / MXT",
+                    "icon": "MXT"
+                },
+                "BLK": {
+                    "name": "BTC / BLK",
+                    "icon": "BLK"
+                },
+                "POE": {
+                    "name": "BTC / POE",
+                    "icon": "POE"
+                },
+                "NEBL": {
+                    "name": "BTC / NEBL",
+                    "icon": "NEBL"
+                },
+                "SLS": {
+                    "name": "BTC / SLS",
+                    "icon": "SLS"
+                },
+                "GAM": {
+                    "name": "BTC / GAM",
+                    "icon": "GAM"
+                },
+                "SUB": {
+                    "name": "BTC / SUB",
+                    "icon": "SUB"
+                },
+                "XC": {
+                    "name": "BTC / XC",
+                    "icon": "XC"
+                },
+                "ATCC": {
+                    "name": "BTC / ATCC",
+                    "icon": "ATCC"
+                },
+                "GUP": {
+                    "name": "BTC / GUP",
+                    "icon": "GUP"
+                },
+                "TIME": {
+                    "name": "BTC / TIME",
+                    "icon": "TIME"
+                },
+                "WGR": {
+                    "name": "BTC / WGR",
+                    "icon": "WGR"
+                },
+                "AMP": {
+                    "name": "BTC / AMP",
+                    "icon": "AMP"
+                },
+                "GRC": {
+                    "name": "BTC / GRC",
+                    "icon": "GRC"
+                },
+                "AEON": {
+                    "name": "BTC / AEON",
+                    "icon": "AEON"
+                },
+                "SWT": {
+                    "name": "BTC / SWT",
+                    "icon": "SWT"
+                },
+                "ECN": {
+                    "name": "BTC / ECN",
+                    "icon": "ECN"
+                },
+                "LMC": {
+                    "name": "BTC / LMC",
+                    "icon": "LMC"
+                },
+                "GOLOS": {
+                    "name": "BTC / GOLOS",
+                    "icon": "GOLOS"
+                },
+                "IFT": {
+                    "name": "BTC / IFT",
+                    "icon": "IFT"
+                },
+                "WCT": {
+                    "name": "BTC / WCT",
+                    "icon": "WCT"
+                },
+                "MDA": {
+                    "name": "BTC / MDA",
+                    "icon": "MDA"
+                },
+                "DTB": {
+                    "name": "BTC / DTB",
+                    "icon": "DTB"
+                },
+                "PST": {
+                    "name": "BTC / PST",
+                    "icon": "PST"
+                },
+                "GRS": {
+                    "name": "BTC / GRS",
+                    "icon": "GRS"
+                },
+                "BCAP": {
+                    "name": "BTC / BCAP",
+                    "icon": "BCAP"
+                },
+                "SPRTS": {
+                    "name": "BTC / SPRTS",
+                    "icon": "SPRTS"
+                },
+                "VOX": {
+                    "name": "BTC / VOX",
+                    "icon": "VOX"
+                },
+                "EDR": {
+                    "name": "BTC / EDR",
+                    "icon": "EDR"
+                },
+                "NEOS": {
+                    "name": "BTC / NEOS",
+                    "icon": "NEOS"
+                },
+                "XRB": {
+                    "name": "BTC / XRB",
+                    "icon": "XRB"
+                },
+                "MOON": {
+                    "name": "BTC / MOON",
+                    "icon": "MOON"
+                },
+                "FLO": {
+                    "name": "BTC / FLO",
+                    "icon": "FLO"
+                },
+                "VRC": {
+                    "name": "BTC / VRC",
+                    "icon": "VRC"
+                },
+                "SOAR": {
+                    "name": "BTC / SOAR",
+                    "icon": "SOAR"
+                }
+            }
+        }
+    },
+    "queries": {
+        "getPrice": "Price",
+        "getMarketCap": "Marketcap",
+        "getSupply": "Supply",
+        "getRank": "Rank",
+        "getChangeH": "Change Hourly",
+        "getChangeD": "Change Daily"
+    }
+}
